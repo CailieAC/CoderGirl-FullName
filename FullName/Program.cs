@@ -7,6 +7,9 @@ namespace FullName
         public static void Main()
         {
             // TODO: Ask the user for their first name and then their last name.
+            Console.Write("Enter your first name: ");
+            string firstName
+            Console.Write("Enter your last name: ");
 
             // TODO: Call a method called FullName that returns their full name.
 
